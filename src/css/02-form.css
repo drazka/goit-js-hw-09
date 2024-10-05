@@ -28,14 +28,14 @@ label {
     flex-direction: column;
 }
 
-input, textarea, input:focus, textarea:focus {
+input, textarea{
     height: 40px;
     border-radius: 4px;
     border: 1px solid #808080;
     margin-top: 8px;
 }
 
-textarea, textarea:focus {
+textarea {
     height: 80px;
 }
 
